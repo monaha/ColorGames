@@ -7,7 +7,7 @@ namespace WindowsFormsApplication1
 {
     class Class1
     {
-        public static string studentname;
+        public static string studentname="";
         public static int result1;
         public static int result2;
         public static int result3;

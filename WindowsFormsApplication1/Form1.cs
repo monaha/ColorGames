@@ -37,5 +37,19 @@ namespace WindowsFormsApplication1
             f.Show();
             this.Hide();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            DrawFR f = new DrawFR();
+            f.Show();
+            this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MixColorGame f = new MixColorGame();
+            f.Show();
+            this.Hide();
+        }
     }
 }
